@@ -1,24 +1,22 @@
-# weatherappvue
+## :rocket: Chat App
 
-## Project setup
-```
-npm install
-```
+## :page_with_curl: Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+🎉Welcome to Weather App, here you can see the weather of your city or whatever that you want see !!
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## :hammer_and_wrench: Technologies Used
 
-### Lints and fixes files
-```
-npm run lint
-```
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## :camera_flash: Project Image
+
+![Image - App1](https://github.com/Adrian97G/App-SocialNetwork/blob/main/src/assets/img/SocialNetworks.PNG)
+
+## :link: Link to see the project in action
+
+[Here you can visit my website](https://app-devbook.netlify.app/)
+
+## :wave: Greetings!!
+
