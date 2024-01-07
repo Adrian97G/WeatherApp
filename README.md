@@ -12,7 +12,7 @@
 
 ## :camera_flash: Project Image
 
-![Image - App1](https://github.com/Adrian97G/WeatherApp/blob/main/weatherapp1.jpeg) ![Image - App1](https://github.com/Adrian97G/WeatherApp/blob/main/weatherapp2.jpeg)
+![Image - App1](https://github.com/Adrian97G/WeatherApp/blob/main/weatherapp.png) 
 
 ## :link: Link to see the project in action
 
