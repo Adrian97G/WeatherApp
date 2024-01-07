@@ -2,6 +2,7 @@
   <div id="app" :class="typeof weather.main !== 'undefined' && weather.main.temp > 16 ? 'hot': '' ">
     <main>
       <div class="search-box">
+        <h2>City Weather ▼</h2>
         <input
           name=""
           id=""
@@ -73,6 +74,14 @@ export default {
 
   body {
     font-family: 'montserrat', sans-serif;
+  }
+
+  h2 {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 1000;
+    text-align: center;
+    padding-bottom: 0.7em;
   }
 
   #app {
